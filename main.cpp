@@ -1,11 +1,3 @@
-//Team Members
-//Mark Ashraf William Ibrahim      	      1900156
-//Hossam El-din Adel Talaat Farag         1900969
-//Mohamed Ahmed Samir Tolba               1900002
-//Marco Sherif Magdy Mousa                1900285
-//Mohammed Saeed Ibrahim Ibrahim Dallash  1900084
-
-
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
