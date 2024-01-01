@@ -137,6 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- This was a group project for the Computer Networks course for ENG ASU whose member names are mentioned above.
+- This was a group project for the Computer Networks course for ENG ASU.
 
 Feel free to contribute and provide feedback to improve this simulation!
